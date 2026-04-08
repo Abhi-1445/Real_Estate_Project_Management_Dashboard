@@ -32,7 +32,7 @@ It demonstrates how data visualization can help stakeholders make **data-driven 
 
 ### 🏢 Global Property & Sales Dashboard
 
-![Dashboard](Images & Icons/Property_Dashboard.png)
+![Dashboard](Images%20&%20Icons/Property_Dashboard.png)
 
 ---
 

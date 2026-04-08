@@ -70,10 +70,10 @@ It demonstrates how data visualization can help stakeholders make **data-driven 
 
 ```id="g0x8qj"
 📂 Real_Estate_Project_Management_Dashboard
- ┣ 📂 dataset
- ┣ 📂 images
- ┃ ┗ 📜 property_dashboard.png
- ┣ 📜 dashboard.pbix
+ ┣ 📂 Data
+ ┣ 📂 Images & Icons
+ ┃ ┗ 📜 Property_Dashboard.png
+ ┣ 📜 Real Estate Project.pbix
  ┣ 📜 README.md
 ```
 
